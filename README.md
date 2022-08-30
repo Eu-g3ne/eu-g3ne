@@ -23,7 +23,8 @@
 
 <h1>🎓 Want to learn</h1>
 
-![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=ffffff&color=336791)
+![](https://img.shields.io/badge/Nuxt.js-informational?style=flat&logo=nuxtdotjs&logoColor=00DC82&color=001e26)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=ffffff&color=336791)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=E10098&color=2B2E3A)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=2496ed&color=081f32)
 ![](https://img.shields.io/badge/nginx-informational?style=flat&logo=nginx&logoColor=009639&color=ffffff)
